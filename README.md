@@ -11,5 +11,6 @@ org.openhab.binding.beewi
 
 ## BeeWi scripts
 Scripts for controlling BeeWi
+
 https://www.raspberrypi.org/forums/viewtopic.php?f=37&t=117729
 https://www.raspberrypi.org/forums/viewtopic.php?f=37&t=139848
